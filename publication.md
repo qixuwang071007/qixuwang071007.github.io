@@ -5,7 +5,7 @@ subtitle: Journal articles, conference proceedings, and preprints.
 permalink: /publication/
 ---
 
-*Here is a list of my research publications. For a full list and citation metrics, please visit my [Google Scholar](#).*
+*Here is a list of my research publications. For a full list and citation metrics, please visit my [Google Scholar](https://scholar.google.com/citations?user=9WCaLscAAAAJ&hl=en).*
 
 ---
 
