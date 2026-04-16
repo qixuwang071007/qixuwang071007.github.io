@@ -5,31 +5,31 @@ subtitle: Journal articles, conference proceedings, and preprints.
 permalink: /publication/
 ---
 
-*Here is a list of my recent research publications. For a full list, please visit my [Google Scholar](https://scholar.google.com/citations?user=9WCaLscAAAAJ&hl=en).*
+*Here is a list of my research publications. For a full list and citation metrics, please visit my [Google Scholar](#).*
 
 ---
 
-### 2026 (Upcoming & Preprints)
+### 2026
 
-* **[Your Paper Title on Extremum Seeking Control and Lie Bracket Averaging]**
-  <br> **Qixu Wang**, [Co-author Name], [Co-author Name]
-  <br> *Submitted to [Journal/Conference Name]*, 2026.
-  <br> [[PDF](#)] [[arXiv](#)] [[Code](https://github.com/qixuwang071007/ros_esc)]
+* **[Title of the paper on Extremum Seeking Control and Lie Bracket Averaging]**
+  <br> **Qixu Wang**, Zahra Nili Ahmadabadi, Miroslav Krstić
+  <br> *[Target Journal/Conference]*, 2026. (In Preparation / Under Review)
+  <br> [[PDF](#)] [[Code](https://github.com/qixuwang071007/ros_esc)]
 
 ### 2025
 
-* **[Your Paper Title on Logarithmic Barrier Functions for Uncrewed Systems]**
-  <br> **Qixu Wang**, [Co-author Name]
+* **[Title of the paper on Logarithmic Barrier Functions / Underwater Robotics]**
+  <br> **Qixu Wang**, [Co-authors]
   <br> *[Journal/Conference Name]*, 2025.
   <br> [[PDF](#)] [[Video](#)]
 
-### 2024 & Earlier
+### 2024
 
 * **A Survey on Chaotic Motion Planning and Assistive Robotics**
-  <br> **Qixu Wang**, [Co-author Name]
-  <br> *[Journal/Conference Name]*, 2024.
+  <br> **Qixu Wang**, [Co-authors]
+  <br> *[Journal Name]*, 2024.
   <br> [[PDF](#)]
 
 ---
 
-> **Note:** If you want to collaborate on projects related to Extremum seeking Control, safety-critical control, and TurtleBot, feel free to reach out!
+> **Note:** For inquiries regarding my research, code repositories (such as the ROS 2 packages for TurtleBot3 and BlueROV), or potential collaborations, please feel free to reach out via email.
