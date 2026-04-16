@@ -13,22 +13,22 @@ permalink: /publication/
 
 * **[Logarithmic Barrier Functions for Practically Safe Extremum Seeking Control]**
   <br> **Qixu Wang**, Patrick McNamee, Zahra Nili Ahmadabadi
-  <br> *[65th IEEE Conference on Decision and Control Submission]*, 2026.
+  <br> *65th IEEE Conference on Decision and Control*, 2026. (Submit in March, 2026)
   <br> [[PDF](https://arxiv.org/abs/2604.03138)]
 
 ### 2025
 
-* **[Title of the paper on Logarithmic Barrier Functions / Underwater Robotics]**
-  <br> **Qixu Wang**, [Co-authors]
-  <br> *[Journal/Conference Name]*, 2025.
-  <br> [[PDF](#)] [[Video](#)]
+* **[Servos for Local Map Exploration Onboard Nonholonomic Vehicles for Extremum Seeking]**
+  <br> Dylan James-Kavanaugh, Patrick McNamee, **Qixu Wang**, Zahra Nili Ahmadabadi
+  <br> *IEEE Transactions on Control Systems Technology*, 2025. (Resubmit in March, 2026)
+  <br> [[PDF](https://arxiv.org/abs/2509.16365)] [[Video](https://bit.ly/4dfFBTL)]
 
-### 2024
+### 2023
 
-* **A Survey on Chaotic Motion Planning and Assistive Robotics**
-  <br> **Qixu Wang**, [Co-authors]
-  <br> *[Journal Name]*, 2024.
-  <br> [[PDF](#)]
+* **Chaotic motion planning for mobile robots: Progress, challenges, and opportunities**
+  <br> Farida Ahuraka, Patrick Mcnamee, **Qixu Wang**, Zahra Nili Ahmadabadi, Jeffrey Hudack
+  <br> *IEEE Access*, 2023.
+  <br> [[PDF](https://ieeexplore.ieee.org/abstract/document/10332172)]
 
 ---
 
