@@ -32,4 +32,4 @@ permalink: /publication/
 
 ---
 
-> **Note:** If you want to collaborate on projects related to ROS 2, Gazebo simulation, or safety-critical control, feel free to reach out!
+> **Note:** If you want to collaborate on projects related to Extremum seeking Control, safety-critical control, and TurtleBot, feel free to reach out!
