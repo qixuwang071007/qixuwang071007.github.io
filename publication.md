@@ -13,7 +13,7 @@ permalink: /publication/
 
 * **[Logarithmic Barrier Functions for Practically Safe Extremum Seeking Control]**
   <br> **Qixu Wang**, Patrick McNamee, Zahra Nili Ahmadabadi
-  <br> *[Target Journal/Conference]*, 2026. (In Preparation / Under Review)
+  <br> *[65th IEEE Conference on Decision and Control Submission]*, 2026.
   <br> [[PDF](https://arxiv.org/abs/2604.03138)]
 
 ### 2025
