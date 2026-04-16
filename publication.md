@@ -11,10 +11,10 @@ permalink: /publication/
 
 ### 2026
 
-* **[Title of the paper on Extremum Seeking Control and Lie Bracket Averaging]**
-  <br> **Qixu Wang**, Zahra Nili Ahmadabadi, Miroslav Krstić
+* **[Logarithmic Barrier Functions for Practically Safe Extremum Seeking Control]**
+  <br> **Qixu Wang**, Patrick McNamee, Zahra Nili Ahmadabadi
   <br> *[Target Journal/Conference]*, 2026. (In Preparation / Under Review)
-  <br> [[PDF](#)] [[Code](https://github.com/qixuwang071007/ros_esc)]
+  <br> [[PDF](https://arxiv.org/abs/2604.03138)]
 
 ### 2025
 
